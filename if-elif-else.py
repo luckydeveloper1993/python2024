@@ -17,7 +17,7 @@ Created on Fri Jun 21 16:47:24 2024
     
     
 #boolean true false
-narx = 15000
+narx = 25000
 choy = 1
 salat = 0
 non = 1
